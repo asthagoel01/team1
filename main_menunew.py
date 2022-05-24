@@ -1,4 +1,5 @@
 import os
+print("good")
 while(1):
 	print("\t\t\tWelcome to the automation menu !!")
 	print("\t\t\t---------------------------------")
